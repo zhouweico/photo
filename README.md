@@ -1,4 +1,5 @@
 # photo
+Application for viewing and querying photos.
 
 ## Project setup
 ```
@@ -20,5 +21,9 @@ yarn build
 yarn lint
 ```
 
+### Multi Platform Build
+```
+yarn electron:build-mwl
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

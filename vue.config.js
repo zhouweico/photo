@@ -11,7 +11,7 @@ module.exports = {
     electronBuilder: {
       builderOptions: {
         // options placed here will be merged with default configuration and passed to electron-builder
-        appId: "org.weilabs.photo",
+        appId: "co.zhouwei.photo",
         productName: "Photo",
         copyright: "Copyright © 2023 ${author}",
         mac: {

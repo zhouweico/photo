@@ -15,14 +15,14 @@ module.exports = {
         productName: "Photo",
         copyright: "Copyright © 2023 ${author}",
         mac: {
-          icon: "src/assets/icons/icon.icns",
+          icon: "build/icon.icns",
           category: "public.app-category.graphics-design",
         },
         win: {
-          icon: "src/assets/icons/icon.ico",
+          icon: "build/icon.ico",
         },
         linux: {
-          icon: "src/assets/icons/icon.png",
+          icon: "build/512x512.png",
           category: "Graphics",
         }
       }
